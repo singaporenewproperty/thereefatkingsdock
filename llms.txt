@@ -1,0 +1,9 @@
+# The Reef at Kings Dock
+
+> The Reef at Kings Dock — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/thereefatkingsdock/
+
+## Pages
+
+- [The Reef at Kings Dock](https://singaporenewproperty.github.io/thereefatkingsdock/): The Reef at Kings Dock property information.
